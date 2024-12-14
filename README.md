@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 14/12/2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,14 +39,20 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![WhatsApp Image 2024-12-14 at 09 24 01_c88f8c60](https://github.com/user-attachments/assets/1686789b-5ee7-4ac9-839a-079fec71ca9e)
+
+![WhatsApp Image 2024-12-14 at 09 33 05_f552d822](https://github.com/user-attachments/assets/a0b9093e-2b5a-4c19-abf8-6fcac9800023)
+
+![WhatsApp Image 2024-12-14 at 09 33 24_34c68056](https://github.com/user-attachments/assets/809859f1-4dec-4cf3-a42a-4fc20177d353)
 
 ## Output:
 
-### Name:
-### Register Number:
+![WhatsApp Image 2024-12-14 at 09 45 00_9a1f25c5](https://github.com/user-attachments/assets/ff50a650-5d41-490e-8be2-d77e859cd279)
+
+![WhatsApp Image 2024-12-14 at 09 45 00_41126b97](https://github.com/user-attachments/assets/2fed8f4b-8310-4ed8-9aa5-4b6c400b40e1)
+
+### Name:Raja.P
+### Register Number:24009721
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
